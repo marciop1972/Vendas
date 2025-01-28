@@ -6,13 +6,13 @@ O projeto é uma pequena amostra de um avatar virtual criado para potencializar 
 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Foi utilizado o chatgpt para gerar o script de venda utilizado pelo avatar.
+O D-ID Studio para criar o avatar virtual.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um avatar virtual atravez de uma foto atual do vendedor e gerei um script potencializador de vendas. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado permite que o vendedor envie seu avatar virtual a clientes potencializando suas vendas pelo whatsapp .
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
