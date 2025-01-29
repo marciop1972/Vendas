@@ -13,4 +13,5 @@ Criei um avatar virtual atravez de uma foto atual do vendedor e gerei um script 
 ## 🚀 Resultados
 O resultado permite que o vendedor envie seu avatar virtual a clientes potencializando suas vendas pelo whatsapp .
 
-
+link do vídeo:
+D-ID-prj_BIekbcedObqxs29W4klw2.mp4
